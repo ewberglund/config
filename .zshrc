@@ -19,3 +19,6 @@ prompt walters
 
 # Syntax highlighting
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# Aliases
+alias ll='ls -al'
