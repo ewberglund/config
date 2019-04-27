@@ -22,3 +22,6 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # Aliases
 alias ll='ls -al'
+alias ga='git add'
+alias gs='git status'
+alias gc='git commit'
