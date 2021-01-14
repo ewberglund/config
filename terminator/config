@@ -13,8 +13,10 @@
 [plugins]
 [profiles]
   [[default]]
+    font = Inconsolata 20
     show_titlebar = false
     background_color = "#002b36"
     cursor_color = "#eee8d5"
     foreground_color = "#e6e0da"
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#586e75:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
+    use_system_font = False
